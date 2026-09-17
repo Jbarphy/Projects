@@ -7,8 +7,8 @@ Linux is kind of popping off because of videos and creators shilling it as the g
 
 My decision for Linux is:
 	a) start learning how to navigate Linux (more correctly GNU) and
-	b) have Open-Source tools readily available (and pre-installed) 
-Due in part to the Debian fork of Kali Linux, I have a solid start to the tools I would need, and further dependencies and tools can easily be installed if needed
+	b) have Open-Source tools readily available (and pre-installed depending on your Distro)
+Due in part to the Debian fork of Kali Linux, I have a solid start to the tools anyone would need, and further dependencies and tools can easily be installed if needed
 
 Now on to VirtualBox... the Open Source VM that every cybersecurity college student has had to use for free
 
@@ -23,5 +23,6 @@ The list of tools possible for Image Analysis alone are numerous, but at the end
 * Code Editor for python scripting
 * Vulnerability testing tools such as gobuster, fuzz, etc.
 * more that you should research
+* Limited distros lack support for tools
 
 
